@@ -1,6 +1,6 @@
 # Starship-Arena
-###一个素材很简陋的战舰题材对战游戏，使用Unity引擎开发。需要说明的是在调试过程中曾经使用了Code Monkey的库来显示内部数据，他的网站是https://unitycodemonkey.com/ 
-##效果展示
+### 一个素材很简陋的战舰题材对战游戏，使用Unity引擎开发。需要说明的是在调试过程中曾经使用了Code Monkey的库来显示内部数据，他的网站是https://unitycodemonkey.com/ 
+## 效果展示
 1. 主菜单
 ![image](https://github.com/KamenRiderHibiki/readme_add_pic/blob/master/Starship_Arena/1-%E4%B8%BB%E8%8F%9C%E5%8D%95.png)
 2. 存档选择
